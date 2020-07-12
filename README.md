@@ -18,11 +18,4 @@ Welcome to my profile! I hope you like my jobs and contributions!
 - React Native animations 🖌
 - Basic Flutter (just for fun🌟)
 
-### More about me 😉
-- I'm 15 and I've learning code since last year (2019), I'm always getting ways to learn and facing the unknown, I think this inspires me a lot!
-- Yep, I've 15 years old
-- I'm from Santarém - PA, Brazil
-- I'm in the last year of High School
-- I consume a lot of books, podcasts and videos about entrepreneurship
-
 #### Thanks for your attention! Let's code 💥
