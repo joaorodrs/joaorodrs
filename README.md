@@ -10,7 +10,7 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 ### What I'm learning today 👨‍💻
 - Responsiveness using React JS ⚛
 - Best pratices with UI/UX 📲
-- Tests using jest with "NodeTS" 🧪
+- Tests using jest with NodeJS 🧪
 - Best pratices with DevOps 🛠
 - React Native animations 🖌
 - Basic Flutter (just for fun🌟)
