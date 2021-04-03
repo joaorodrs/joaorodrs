@@ -5,8 +5,8 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo-ld/)](https://www.linkedin.com/in/joaopaulo-ld/)
 [![Twitter URL](https://img.shields.io/twitter/url?color=white&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fjoaorodrs)](https://instagram.com/joaorodrs/)
 ### What I'm working on today 🔥
+- Junior Software Engineer at [Inovando](https://github.com/inovando)
 - <a href="https://play.google.com/store/apps/details?id=com.eufitbrasil.eufitbrasilcontrol">Eu Fit Brasil - Controle</a>
-- Software development at [Inovando](https://github.com/inovando)
 ### What I'm learning today 👨‍💻
 - Responsiveness using React JS ⚛
 - Redux 🗃
