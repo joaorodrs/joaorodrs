@@ -1,4 +1,4 @@
-## Hi! I'm João Paulo ✌
+## João Paulo, Software Developer
 Welcome to my profile! I hope you like my jobs and contributions! <br/>
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jpjoao1001@gmail.com)](mailto:jpjoao1001@gmail.com)
