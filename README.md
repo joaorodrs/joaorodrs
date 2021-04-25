@@ -29,8 +29,11 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 - REST API's with [Nest.js](https://docs.nestjs.com/)
 - Apps containerization with [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/)
 
+### Sometimes I write something at this blog ✍️:
+- [joaorodrs.medium.com](https://joaorodrs.medium.com/)
+
 ### My Github Stats 🏆
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=8&username=joaorodrs&hide=css,raku,perl,html&theme=midnight-purple)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorodrs&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=8&username=joaorodrs&hide=css,raku,perl,html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorodrs&show_icons=true)
 
 <h4 align="center">Thanks for your attention! Let's code 💥</h4>
