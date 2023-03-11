@@ -25,7 +25,7 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 
 ### What I'm learning today 👨‍💻
 - Android & IOS push notifications (with Expo Push API) 📲
-- React Native animations 🖌
+- React animations 🖌
 - REST API's with [Nest.js](https://docs.nestjs.com/)
 - Apps containerization with [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/)
 
