@@ -29,7 +29,6 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 - Android & iOS push notifications 📲
 - React & React Native animations (w/ Framer Motion) 🖌
 - React Server Components (w/ NextJS)
-- 
 
 ### Sometimes I write something at this blog ✍️:
 - [joaorodrs.medium.com](https://joaorodrs.medium.com/)
