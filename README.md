@@ -4,7 +4,7 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jpjoao1001@gmail.com)](mailto:jpjoao1001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaorodrs/)](https://www.linkedin.com/in/joaorodrs/)
 ### What I'm working on today 🔥
-- Mid-level Software Engineer at [Inovando](https://github.com/inovando)
+- Software Engineer at [Inovando](https://github.com/inovando)
 
 ### Languages and tools 🔧
 <p align="center">
