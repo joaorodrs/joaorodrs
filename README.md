@@ -26,8 +26,8 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 </p>
 
 ### What I'm learning today 👨‍💻
-- Android & iOS push notifications 📲
-- React & React Native animations (w/ Framer Motion) 🖌
+- Android & iOS push notifications
+- React & React Native animations
 - React Server Components (w/ NextJS)
 
 ### Sometimes I write something at this blog ✍️:
