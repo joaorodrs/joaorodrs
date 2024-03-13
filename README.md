@@ -3,10 +3,10 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jpjoao1001@gmail.com)](mailto:jpjoao1001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaorodrs/)](https://www.linkedin.com/in/joaorodrs/)
-### What I'm working on today 🔥
+### What I'm working on today
 - Software Engineer at [Inovando](https://github.com/inovando)
 
-### Languages and tools 🔧
+### Languages and tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
@@ -25,13 +25,10 @@ Welcome to my profile! I hope you like my jobs and contributions! <br/>
 
 </p>
 
-### What I'm learning today 👨‍💻
+### What I'm learning today
 - Android & iOS push notifications
 - React & React Native animations
 - React Server Components (w/ NextJS)
-
-### Sometimes I write something at this blog ✍️:
-- [joaorodrs.medium.com](https://joaorodrs.medium.com/)
 
 ### My Github Stats 🏆
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaorodrs)
