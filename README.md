@@ -1,13 +1,8 @@
-## João Paulo, Software Developer
-Welcome to my profile! I hope you like my jobs and contributions! <br/>
-<br/>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jpjoao1001@gmail.com)](mailto:jpjoao1001@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaorodrs/)](https://www.linkedin.com/in/joaorodrs/)
-### What I'm working on today
-- Software Engineer at [Inovando](https://github.com/inovando)
+# João Paulo, Software Developer
 
-### Languages and tools
-<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaorodrs/)](https://www.linkedin.com/in/joaorodrs/)
+
+<p align="flex-start">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
