@@ -26,7 +26,7 @@
 - React Server Components (w/ NextJS)
 
 ### My Github Stats 🏆
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaorodrs)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorodrs&show_icons=true&theme=dracula)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaorodrs\&layout=compact\&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorodrs\&include_all_commits=true\&rank_icon=github\&show_icons=true/&theme=dracula)
 
 <h4 align="center">Thanks for your attention! Let's code 💥</h4>
