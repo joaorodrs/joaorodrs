@@ -1,4 +1,4 @@
-## João Paulo, Passionate Software Developer
+## Welcome to my GitHub!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaorodrs/)](https://www.linkedin.com/in/joaorodrs/)
 
@@ -20,13 +20,4 @@
 
 </p>
 
-### What I'm learning today
-- Android & iOS push notifications
-- React & React Native animations
-- React Server Components (w/ NextJS)
-
-### My Github Stats 🏆
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaorodrs\&layout=compact\&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorodrs\&include_all_commits=true\&rank_icon=github\&show_icons=true/&theme=dracula)
-
-<h4 align="center">Thanks for your attention! Let's code 💥</h4>
