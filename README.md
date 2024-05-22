@@ -19,5 +19,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/norg/norg-original.svg" alt="Norg" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaorodrs\&layout=compact\&theme=dracula)
